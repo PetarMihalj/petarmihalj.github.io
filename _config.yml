@@ -1,1 +1,13 @@
+title: Petar Mihalj
+description: Personal blog
+author: Petar Mihalj
+
 theme: minima
+
+show_excerpts: false
+
+minima:
+  skin: auto
+  social_links: []
+
+header_pages: []
